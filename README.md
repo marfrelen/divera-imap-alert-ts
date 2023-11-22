@@ -1,8 +1,10 @@
 # divera-alert-receiver-nodejs
-Fetch alert mails from an configured IMAP-Server and delivers them to Divera
+Fetch alert mails from a configured IMAP-Server and delivers them to the Divera API
 
 ## System requirements
-Node Version >= 18.16.*
+NPM Version >= 9.5.1
+Node Version >= 18.16.1
+TS-Node Version >= 10.9.1
 
 ## Installation Steps
 Copy example env file 
