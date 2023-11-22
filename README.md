@@ -2,7 +2,7 @@
 Fetch alert mails from an configured IMAP-Server and delivers them to Divera
 
 ## System requirements
-Node Version >= 14.*
+Node Version >= 18.16.*
 
 ## Installation Steps
 Copy example env file 
